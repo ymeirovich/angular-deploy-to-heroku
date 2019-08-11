@@ -1,3 +1,5 @@
+# see https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147 for instructions
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=73QY55FZWSPRJ)
 
 # Get started
